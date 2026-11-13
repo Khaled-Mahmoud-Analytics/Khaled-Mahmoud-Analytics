@@ -10,7 +10,7 @@
   and support better decision-making.
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=k1402&style=flat&color=blue&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Khaled-Mahmoud-Analytics&style=flat&color=blue&label=PROFILE+VIEWS)
 
 </div>
 
@@ -96,11 +96,11 @@ I believe that data analysis is not just about creating charts or dashboards. It
 
 <div align="center">
 
-<a href="https://github.com/k1402">
+<a href="https://github.com/Khaled-Mahmoud-Analytics">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=k1402&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Khaled-Mahmoud-Analytics&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1402&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled-Mahmoud-Analytics&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </a>
 
